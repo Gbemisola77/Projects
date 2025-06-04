@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title><b>Blooming Greens High School</b></title>
+    </head>
+<body>
+<strong>3, Connal Road, Off Herbert Macaulay Wy, Yaba, Lagos</strong>
+<b>It is a very good International school.<br></b>
+<b>With British Coriculum to engage the students in what is happening in aboard</b>
+</body>
+</html>
