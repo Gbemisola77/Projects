@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Formating</title>
+    </head>
+    <body>
+        <b>Bold</b><br>
+        <strong>strong</strong><br>
+        <i>Italic</i><br>
+        <mark>Mark</mark><br>
+        <small>small</small><br>
+        <del>Delete</del><br>
+        H2O<br>
+        H<sub>2</sub>o<br>
+        X<sup>2</sup>+y=xy<sup>3</sup>
+
+        <p>The president says,<q>All cxitizens to pay taxes.</q>
+
+
+            ,<blockquote cite=https://www.codingal.com/en-ng/batches/971fc4ea-e85f-4ac4-bbc3-f13a464d05c7/classroom/></blockquote>
+</html>
