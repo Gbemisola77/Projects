@@ -1,0 +1,32 @@
+ body{
+    background-color: black;
+    color: antiquewhite;
+ }
+ a{
+    color: bisque;
+    text-decoration: none;
+ }
+ /* Child selector */
+ ul>li{
+    font-weight: bold;
+ }
+ /* Sibling Selector*/
+ ul+p{
+    background-color: yellowgreen;
+    border-radius: 9px;
+ }
+ 
+ p:not(:first-of-type){
+    text-decoration: underline;
+ }
+
+ li::before{
+    content: "🚀";
+ }
+ a::after{
+    content: "🌌";
+ }
+p::first-letter{
+    font-size: 200%;
+    color: yellow;
+}
