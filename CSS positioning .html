@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>Positioning in CSS</title>
+        <style>
+            div{
+                right: 30px;
+                border: 3px solid powderblue;
+            }
+            .abs{
+                position: absolute;
+                left: 50px;
+                border: 3px solid slateblue;
+            }
+            #rel{
+                position: relative;
+                left: 100px;
+                border: 3px solid blueviolet;
+            }
+            .fix{
+                position: fixed;
+                top: 0;
+                right: 20px;
+                width: 300px;
+                border: 3px solid mediumpurple;
+            }
+            .sticky{
+                position: sticky;
+                top: 0;
+                right: 20px;
+                width: 300px;
+                border: 3px solid rebeccapurple;
+                top: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Positioning</h2>
+        <div>Div without positioning property</div>
+
+        <div class="sticky">Sticky Positioning</div>
+        <div id="rel">The Div with Relative Positioning
+            <div class="abs">Absolute Positioning</div>
+        </div>
+
+        <div class="fix">Div with fixed positioning</div>
+        
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </body>
+</html>
